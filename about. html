@@ -9,16 +9,16 @@
 <body>
     <div class="container mt-5">
         <h1 class="text-center">About Me</h1>
-        <p>Hello! My name is [Your Name]. I am a [Your Profession].</p>
+        <p>Hello! My name is [Mohamadreza khajoeii]. I am a [Your Profession].</p>
         <h2>My Hobbies</h2>
         <ul>
-            <li>Hobby 1</li>
-            <li>Hobby 2</li>
-            <li>Hobby 3</li>
+            <li>یکی از سرگرمی های من بازی پینگ پنگ هست </li>
+            <li>  من توی زمینه موسیقی هم خیلی فعال بودم و توازنده موسیقی بودم ساز سنتور میزدم</li>
+            <li>من توی زمینه های مختلفی از ورزش هم به صورت های غیر حرفه ای فعالیت کردم</li>
         </ul>
-        <h2>Contact Information</h2>
-        <p>Email: [Your Email]</p>
-        <p>Phone: [Your Phone Number]</p>
+        <h2></h2>
+        <p>Email: [moahamdrezakhajoie@gmail.com]</p>
+        <p>Phone: [09963803687]</p>
         <a href="index.html" class="btn btn-info mt-3">Back to Home</a>
     </div>
 </body>
