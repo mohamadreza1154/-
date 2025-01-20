@@ -7,11 +7,16 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Reminder Website</h1>
-        <input type="date" id="reminder-date">
-        <button onclick="addReminder()">Add Reminder</button>
-        <ul id="reminder-list"></ul>
+    <div class="container mt-5">
+        <h1 class="text-center">Reminder Website</h1>
+        <div class="form-group">
+            <label for="reminder-date">Choose a date:</label>
+            <input type="date" class="form-control" id="reminder-date">
+        </div>
+        <button class="btn btn-primary btn-block" onclick="addReminder()">Add Reminder</button>
+        <ul class="list-group mt-3" id="reminder-list"></ul>
+        <!-- لینک به صفحه جدید -->
+        <a href="about.html" class="btn btn-info mt-3">About Me</a>
     </div>
     <script src="script.js"></script>
 </body>
